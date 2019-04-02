@@ -10,4 +10,3 @@ How to get local pg4 database
 a. Applications -> pgAdmin4
 b. spin up the postgres images. username: posgres password: docker
 c. go to pgAdmin and connect to port 5432 to access local db.
-
