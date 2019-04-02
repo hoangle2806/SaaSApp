@@ -4039,38 +4039,134 @@
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies default#todolist$sources;0.1->jline#jline;2.14.6 [scala-tool->master][0m
 [0m[[0m[0mdebug[0m] [0m[0m	resolved ivy file produced in cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m:: downloading artifacts ::[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#http4s-websocket_2.12;0.2.1!http4s-websocket_2.12.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#blaze-http_2.12;0.12.13!blaze-http_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#cats-effect_2.12;0.10.1!cats-effect_2.12.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.12.8!scala-library.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#http4s-client_2.12;0.18.23!http4s-client_2.12.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /Users/hoang/.ivy2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#blaze-http_2.12;0.12.13!blaze-http_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] co.fs2#fs2-core_2.12;0.10.6!fs2-core_2.12.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#cats-macros_2.12;1.6.0!cats-macros_2.12.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#http4s-websocket_2.12;0.2.1!http4s-websocket_2.12.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /Users/hoang/.ivy2[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#http4s-client_2.12;0.18.23!http4s-client_2.12.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.12.8!scala-library.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /Users/hoang/.ivy2[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /Users/hoang/.ivy2[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /Users/hoang/.ivy2[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default ivy user dir defined: set to /Users/hoang/.ivy2[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (28ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (29ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (30ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (36ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0mincluding url: jar:file:/Users/hoang/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (29ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#http4s-blaze-core_2.12;0.18.23!http4s-blaze-core_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] co.fs2#fs2-io_2.12;0.10.6!fs2-io_2.12.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0msettings loaded (35ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default cache: /Users/hoang/.ivy2/cache[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#cats-kernel_2.12;1.6.0!cats-kernel_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#http4s-dsl_2.12;0.18.23!http4s-dsl_2.12.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#http4s-blaze-server_2.12;0.18.23!http4s-blaze-server_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.eclipse.jetty.alpn#alpn-api;1.1.3.v20160715!alpn-api.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#http4s-blaze-server_2.12;0.18.23!http4s-blaze-server_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] co.fs2#fs2-scodec_2.12;0.10.6!fs2-scodec_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] ch.qos.logback#logback-classic;1.2.3!logback-classic.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#cats-macros_2.12;1.6.0!cats-macros_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.25!slf4j-api.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.twitter#hpack;1.0.2!hpack.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#cats-core_2.12;1.6.0!cats-core_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#parboiled_2.12;1.0.1!parboiled_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#blaze-core_2.12;0.12.13!blaze-core_2.12.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] com.twitter#hpack;1.0.2!hpack.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#http4s-blaze-client_2.12;0.18.23!http4s-blaze-client_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#http4s-core_2.12;0.18.23!http4s-core_2.12.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#machinist_2.12;0.6.6!machinist_2.12.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scodec#scodec-bits_2.12;1.1.9!scodec-bits_2.12.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] ch.qos.logback#logback-core;1.2.3!logback-core.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default resolver: default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-- 5 resolvers:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shared [file][0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.http4s#http4s-server_2.12;0.18.23!http4s-server_2.12.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.8!scala-compiler.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.log4s#log4s_2.12;1.7.0!log4s_2.12.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.typelevel#machinist_2.12;0.6.6!machinist_2.12.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	default [chain] [local, main][0m
+[0m[[0m[0mdebug[0m] [0m[0m	public [ibiblio][0m
+[0m[[0m[0mdebug[0m] [0m[0m	main [chain] [shared, public][0m
+[0m[[0m[0mdebug[0m] [0m[0m	local [file][0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scodec#scodec-bits_2.12;1.1.9!scodec-bits_2.12.jar(src)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)[0m
-[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 292ms :: artifacts dl 10ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.log4s#log4s_2.12;1.7.0!log4s_2.12.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] ch.qos.logback#logback-core;1.2.3!logback-core.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.8!scala-compiler.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar(src)[0m
+[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 1137ms :: artifacts dl 60ms[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#todolist$sources;0.1 compile produced in /Users/hoang/Documents/work/mySaaSApp/backend/TodoList/target/scala-2.12/resolution-cache/reports/default-todolist$sources-compile.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#todolist$sources;0.1 runtime produced in /Users/hoang/Documents/work/mySaaSApp/backend/TodoList/target/scala-2.12/resolution-cache/reports/default-todolist$sources-runtime.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#todolist$sources;0.1 test produced in /Users/hoang/Documents/work/mySaaSApp/backend/TodoList/target/scala-2.12/resolution-cache/reports/default-todolist$sources-test.xml[0m
@@ -4082,4 +4178,4 @@
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#todolist$sources;0.1 plugin produced in /Users/hoang/Documents/work/mySaaSApp/backend/TodoList/target/scala-2.12/resolution-cache/reports/default-todolist$sources-plugin.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#todolist$sources;0.1 pom produced in /Users/hoang/Documents/work/mySaaSApp/backend/TodoList/target/scala-2.12/resolution-cache/reports/default-todolist$sources-pom.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for default#todolist$sources;0.1 scala-tool produced in /Users/hoang/Documents/work/mySaaSApp/backend/TodoList/target/scala-2.12/resolution-cache/reports/default-todolist$sources-scala-tool.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	resolve done (292ms resolve - 10ms download)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resolve done (1137ms resolve - 60ms download)[0m
