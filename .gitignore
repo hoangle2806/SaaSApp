@@ -1,4 +1,6 @@
 .DS_store
-/.idea
+.idea
 /.project
 /.target
+project/
+target/

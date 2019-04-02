@@ -4,7 +4,7 @@
 		module="todolist$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190402102720"
+		publication="20190402124552"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
