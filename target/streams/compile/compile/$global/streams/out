@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hoang/Documents/work/researchStuff/TodoList/src/main/scala/Service.scala:3:8: object HttpRoutes is not a member of package org.http4s[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.http4s.HttpRoutes[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hoang/Documents/work/researchStuff/TodoList/src/main/scala/Service.scala:11:21: not found: type IOApp[0m
+[0m[[0m[31merror[0m] [0m[0mobject Main extends IOApp{[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hoang/Documents/work/researchStuff/TodoList/src/main/scala/Service.scala:13:21: not found: value HttpRoutes[0m
+[0m[[0m[31merror[0m] [0m[0m  val todoService = HttpRoutes.of[IO]{[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hoang/Documents/work/researchStuff/TodoList/src/main/scala/Service.scala:17:34: not found: type ExitCode[0m
+[0m[[0m[31merror[0m] [0m[0m  def run(args: List[String]):IO[ExitCode] =[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hoang/Documents/work/researchStuff/TodoList/src/main/scala/Service.scala:18:5: not found: value BlazeServerBuilder[0m
+[0m[[0m[31merror[0m] [0m[0m    BlazeServerBuilder[IO][0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hoang/Documents/work/researchStuff/TodoList/src/main/scala/Service.scala:24:9: not found: value ExitCode[0m
+[0m[[0m[31merror[0m] [0m[0m    .as(ExitCode.Success)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

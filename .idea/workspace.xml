@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="926" />
+    <option name="height" value="907" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../mysaas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../pickMyNews/backend/backendmynews" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../pickMyNews/backend/http4smynewsbackend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../researchStuff/todo-http4s-doobie" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../researchStuff/typelevel-stack.g8" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
